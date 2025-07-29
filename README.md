@@ -19,7 +19,7 @@ We apply the dataset preprocessed by [P5](https://github.com/jeykigung/P5) and [
 
 ## Pretrained Checkpoints
 
-Download pretrained Checkpoints from this [Google Drive link]([https://drive.google.com/file/d/1qGxgmx7G_WB7JE4Cn_bEcZ_o_NAJLE3G/view?usp=sharing](https://drive.google.com/drive/folders/1vlx9rxu-TGhTHy31n7ax-eHtIujr7hCz?usp=drive_link))
+Download pretrained Checkpoints from this [Google Drive link]([https://drive.google.com/file/d/1qGxgmx7G_WB7JE4Cn_bEcZ_o_NAJLE3G/view?usp=sharing](https://drive.google.com/drive/folders/1vlx9rxu-TGhTHy31n7ax-eHtIujr7hCz?usp=drive_link)
 
 ## Quick Start
 
