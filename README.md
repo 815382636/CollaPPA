@@ -19,7 +19,7 @@ We apply the dataset preprocessed by [P5](https://github.com/jeykigung/P5) and [
 
 ## Pretrained Checkpoints
 
-Download pretrained Checkpoints from this [Google Drive link](https://drive.google.com/file/d/1qGxgmx7G_WB7JE4Cn_bEcZ_o_NAJLE3G/view?usp=sharing)
+Download pretrained Checkpoints from this [Google Drive link]([https://drive.google.com/file/d/1qGxgmx7G_WB7JE4Cn_bEcZ_o_NAJLE3G/view?usp=sharing](https://drive.google.com/drive/folders/1vlx9rxu-TGhTHy31n7ax-eHtIujr7hCz?usp=drive_link))
 
 ## Quick Start
 
@@ -51,4 +51,4 @@ If the code and the paper are useful for you, it is appreciable to cite our pape
 
 ## Thanks
 
-The code refers to the repo [P5](https://github.com/jeykigung/P5), [POD](https://github.com/lileipisces/POD), [RDRec](https://github.com/WangXFng/RDRec) and [sdpo](https://github.com/chenyuxin1999/S-DPO).
+The code refers to the repo [P5](https://github.com/jeykigung/P5), [POD](https://github.com/lileipisces/POD), [RDRec](https://github.com/WangXFng/RDRec) and [SDPO](https://github.com/chenyuxin1999/S-DPO).
